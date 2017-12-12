@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ly-master" />
+        <module name="object_ly" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ly-master" target="1.5" />
+      <module name="object_ly" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

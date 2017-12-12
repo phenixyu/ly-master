@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_ly.iml" filepath="$PROJECT_DIR$/java_ly.iml" />
       <module fileurl="file://$PROJECT_DIR$/ly-master.iml" filepath="$PROJECT_DIR$/ly-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object_ly/object_ly.iml" filepath="$PROJECT_DIR$/object_ly/object_ly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_ly.iml" filepath="$PROJECT_DIR$/test_ly.iml" />
     </modules>
   </component>
 </project>

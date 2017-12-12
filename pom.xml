@@ -5,7 +5,11 @@
   <groupId>com.luoyangsoft</groupId>
   <artifactId>com.luoyangsoft</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <modules>
+    <module>object_ly</module>
+    <module>object_ly</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>com.luoyangsoft</name>
   <url>http://maven.apache.org</url>
